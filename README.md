@@ -47,14 +47,14 @@ issues, please contact me on [git-secret-ts@maxinne.me](mailto:git-secret-ts@max
 ## Todo
 
 Known Issues:
- - Retrieving the public key uses the `gpg` command instead of an exported key. [Issue Link](http://link)
- - Private key needs to be exported to use. [Issue Link](http://link)
- - Finish implementing unit tests. [Issue Link](http://link)
+ - Retrieving the public key uses the `gpg` command instead of an exported key. [Issue Link](https://github.com/maxinne-dev/git-secret-ts/issues/1)
+ - Private key needs to be exported to use. [Issue Link](https://github.com/maxinne-dev/git-secret-ts/issues/4)
+ - Finish implementing unit tests. [Issue Link](https://github.com/maxinne-dev/git-secret-ts/issues/2)
 
 Next steps:
- - Implement integration tests. [Issue Link](http://link)
- - Implement a way to create a keypair, so removing the need to use GPG. [Issue Link](http://link)
- - Implement a way to read the kbx file to retrieve keys. [Issue Link](http://link)
+ - Implement integration tests. [Issue Link](https://github.com/maxinne-dev/git-secret-ts/issues/6)
+ - Implement a way to create a keypair, so removing the need to use GPG. [Issue Link](https://github.com/maxinne-dev/git-secret-ts/issues/5)
+ - Implement a way to read the kbx file to retrieve keys. [Issue Link](https://github.com/maxinne-dev/git-secret-ts/issues/3)
 
 ## AI Disclaimer
 
