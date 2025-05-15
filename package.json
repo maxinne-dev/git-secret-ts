@@ -5,9 +5,7 @@
   "main": "src/main.ts",
   "type": "module",
   "scripts": {},
-  "bin": {
-    "git-secret-ts": "tsx src/main.ts"
-  },
+  "bin": "%~dp0\\node_modules\\tsx\\dist\\cli.mjs %~dp0\\src\\main.ts",
   "keywords": [
     "git",
     "secret",
