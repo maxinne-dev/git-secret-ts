@@ -4,7 +4,9 @@
   "description": "A simple re-implementation of git-secret in typescript.",
   "main": "src/main.ts",
   "type": "module",
-  "scripts": {},
+  "scripts": {
+    "test": "vitest run"
+  },
   "bin": "bin/run.cjs",
   "keywords": [
     "git",
