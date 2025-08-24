@@ -1,3 +1,5 @@
+// TODO: Change this to use winston or something similar.
+
 export function message(...msg: any[]): void {
     console.log('git-secret:', ...msg);
 }
